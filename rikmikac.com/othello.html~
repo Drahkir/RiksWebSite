@@ -1,0 +1,13 @@
+<Html>
+<Head>
+<Title>Othello</Title>
+</Head>
+
+<Body>
+This is my page<br>
+Below you see an applet<br>
+<br>
+<Applet Code="othello/Main.class" width=400 Height=400>
+</Applet>
+</Body>
+</Html> 

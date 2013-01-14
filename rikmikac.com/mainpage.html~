@@ -1,0 +1,37 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css"/>
+<link rel="icon"
+      type="image/ico"
+      href="http://www.rikmikac.com/coffee_cup.ico">
+</head>
+<body>
+<h1>rikmikac dot com</h1>
+<hr/>
+<div align="left">
+  <a href="aboutme.html">About Me</a><br/>
+  <a href="http://www.facebook.com/rikhard/" target="_blank">My Facebook Page</a><br/>
+  <a href="http://www.myspace.com/tntantiques/" target="_blank">My Myspace Music Page</a></br>
+</div>
+
+<div>
+  <p>Games I wrote in Java</p>
+  <table cellspacing="0" cellpadding="6">
+    <tr>
+      <td>
+	<a href="playothello/othello.html" target="_blank"><img src="othello_thumbnail.png"/><br/>Othello</a>
+      </td>
+      <td>
+	<!--<a href="playconnectfour/connectfour.html" target="_blank"><img src="connectfour_thumbnail.png"/><br/>Connect Four</a>-->
+      </td>
+    </tr>
+  </table>
+</div>
+</br>
+<p>A robotic arm I programmed for school.</p>
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/5lo4uNaMBCw&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5lo4uNaMBCw&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></br>
+<!--<p>Download some of my song demos&nbsp;<a href="tntantiques.html">here</a></p>-->
+  <iframe src="http://gamercard.xbox.com/Rikac.card" scrolling="no" frameBorder="0" height="140" width="204">Put your gamertag here too.</iframe>
+  <br/>
+</body>
+</html>

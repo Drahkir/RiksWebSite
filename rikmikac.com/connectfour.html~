@@ -1,0 +1,12 @@
+<Html>
+<Head>
+<Title>Connect Four</Title>
+</Head>
+
+<Body>
+CONNECT FOUR<br>
+<br>
+<Applet Code="connectfour/Main.class" width=400 Height=400>
+</Applet>
+</Body>
+</Html>

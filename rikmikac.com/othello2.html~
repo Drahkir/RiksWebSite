@@ -1,0 +1,12 @@
+<Html>
+<Head>
+<Title>Othello</Title>
+</Head>
+
+<Body>
+OTHELLO FOR TWO PLAYERS!<br>
+<br>
+<Applet Code="othello two player/Main.class" width=400 Height=400>
+</Applet>
+</Body>
+</Html> 

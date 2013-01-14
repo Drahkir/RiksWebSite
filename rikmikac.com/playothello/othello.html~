@@ -1,0 +1,15 @@
+<Html>
+<Head>
+<Title>Othello</Title>
+</Head>
+
+<Body>
+OTHELLO<br>
+<p>Refresh the page to start a new game!</p>
+<br>
+<Applet Code="othello/Main.class" width=400 Height=400>
+</Applet>
+<p>Stuff your comments, questions, and bug reports in <a href="mailto:drahkir@drahkir.net">this</a> box.</p>
+<p>Programming Copyright &#169 2011 Rik Mikac - All rights reserved.</p>
+</Body>
+</Html> 

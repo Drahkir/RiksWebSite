@@ -1,0 +1,10 @@
+html{background-color:#C0C0C0;}
+body{background-color:#F0F0F0;}
+h1{font-family:courier;text-align:center;}
+a.link{color:#000000;text-decoration:none;}
+a.visited{color:#FF0000;text-decoration:none;}
+a.hover{color:#00FF00;text-decoration:none;}
+a.active{color:#0000FF;text-decoration:none;}
+table{border:0px F0F0F0;background-color:F0F0F0;}
+th{color:white;background-color:8B0000;text-align:center;}
+td{border:0px solid black;color:black;background-color:F0F0F0;}

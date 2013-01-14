@@ -1,0 +1,10 @@
+<html>
+  <title>About Me</title>
+  <hr/>
+  <img src="me.jpg"title="My gf is awesome" width="142" height="142" />
+  <img src="mii.jpg"/>
+  <img src="mii_qr.jpg/>
+  <hr/>
+  <body>
+    <p>I'm a full time student at Indiana University, majoring in computer science.<br>I like to play and create games and music.<br>And I have an awesome girlfriend.</p>
+</html>
